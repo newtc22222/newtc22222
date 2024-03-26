@@ -43,13 +43,13 @@
 ### 🤟 My favorite
 
 <p>
-    <img height=175 alt="Football" title="Football" src="https://images.unsplash.com/photo-1551958219-acbc608c6377?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />&nbsp;&nbsp;
-    <img height=175 alt="Badminton" title="Badminton" src="https://images.unsplash.com/photo-1626326880051-9320471299c0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />&nbsp;&nbsp;
+    <img height=175 alt="Football" title="Football" src="https://images.unsplash.com/photo-1551958219-acbc608c6377?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+    <img height=175 alt="Badminton" title="Badminton" src="https://images.unsplash.com/photo-1626326880051-9320471299c0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
 </p>
 
 <p>
-    <img height=175 alt="Music" title="Music" src="https://images.unsplash.com/photo-1505740106531-4243f3831c78?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />&nbsp;&nbsp;
-    <img height=175 alt="Coffee" title="Coffee" src="https://images.unsplash.com/photo-1591456983933-4e9587fdd69f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />&nbsp;&nbsp;
+    <img height=175 alt="Music" title="Music" src="https://images.unsplash.com/photo-1505740106531-4243f3831c78?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+    <img height=175 alt="Coffee" title="Coffee" src="https://images.unsplash.com/photo-1591456983933-4e9587fdd69f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
 </p>
   
 ---
@@ -75,8 +75,8 @@
 
 ---
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=newtc22222&theme=tokyonight" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtc22222&theme=tokyonight" />&nbsp;&nbsp;
+    <img height=220 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=newtc22222&theme=tokyonight" />&nbsp;&nbsp;
+    <img height=220 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtc22222&theme=tokyonight" />&nbsp;&nbsp;
 </p>
 
 </div>
