@@ -1,6 +1,8 @@
-## Nice to see you! My name is Phi ☕👨‍💻🇻🇳
+<img width="100%" src="https://images.pexels.com/photos/130987/pexels-photo-130987.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
+
 <div align='center'>
 
+## Nice to see you! My name is Phi 👨‍💻🇻🇳
 ### 🐍 I'm using
 #### Browser
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
@@ -39,14 +41,16 @@
 
 ---
 ### 🤟 My favorite
-<div align='left'>
-  
-- **Sport**: ⚽ 🏸
-- **Music** 💃:
-  - Deep House, Tropical House
-  - V-Pop, Vinahouse _(remixxxxxxxxxxxxxxxxxxx)_
 
-</div>
+<p>
+    <img height=175 alt="Football" title="Football" src="https://images.unsplash.com/photo-1551958219-acbc608c6377?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />&nbsp;&nbsp;
+    <img height=175 alt="Badminton" title="Badminton" src="https://images.unsplash.com/photo-1626326880051-9320471299c0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />&nbsp;&nbsp;
+</p>
+
+<p>
+    <img height=175 alt="Music" title="Music" src="https://images.unsplash.com/photo-1505740106531-4243f3831c78?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />&nbsp;&nbsp;
+    <img height=175 alt="Coffee" title="Coffee" src="https://images.unsplash.com/photo-1591456983933-4e9587fdd69f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />&nbsp;&nbsp;
+</p>
   
 ---
 ### ✈️ My learning plan
