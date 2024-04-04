@@ -79,6 +79,8 @@
     <img height=220 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtc22222&theme=tokyonight" />&nbsp;&nbsp;
 </p>
 
+---
+<a href="https://app.daily.dev/vonhatphi"><img src="https://api.daily.dev/devcards/v2/MWRXIiwHKjCh0HZ82qsNG.png?r=zdw&type=default" width="356" alt="Vo Nhat Phi's Dev Card"/></a>
 </div>
 <!---
 You just read this comment code with raw version 🤔
