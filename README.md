@@ -3,6 +3,8 @@
 <div align='center'>
 
 ## Nice to see you! My name is Phi 👨‍💻🇻🇳
+If u don't see me here, take a look for [my 2nd account](https://github.com/sunflynf)
+
 ### 🐍 I'm using
 #### Browser
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
