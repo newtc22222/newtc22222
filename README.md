@@ -1,11 +1,10 @@
-<img width="100%" src="https://images.pexels.com/photos/130987/pexels-photo-130987.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
-
 <div align='center'>
+    
+![github-header-image](https://github.com/user-attachments/assets/a710b322-aebb-4988-9dda-13ce475bf10b)
 
-## Nice to see you! My name is Phi 👨‍💻🇻🇳
 If u don't see me here, take a look for [my 2nd account](https://github.com/sunflynf)
 
-### 🐍 I'm using
+## 🐍 I'm using
 #### Browser
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
@@ -16,9 +15,7 @@ If u don't see me here, take a look for [my 2nd account](https://github.com/sunf
 ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
 ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
 
----
-
-### 🖥️ My tech stack
+## 🖥️ My tech stack
 #### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
 #### Design
@@ -33,16 +30,14 @@ If u don't see me here, take a look for [my 2nd account](https://github.com/sunf
 ##### Others
 [![My Skills](https://skillicons.dev/icons?i=md,maven,regex,nodejs,npm,yarn,docker,elasticsearch)](https://skillicons.dev)
 
----
-### Education
+## Education
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
----
-### 🤟 My favorite
+## 🤟 My favorite
 
 <p>
     <img height=175 alt="Football" title="Football" src="https://images.unsplash.com/photo-1551958219-acbc608c6377?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
@@ -54,8 +49,7 @@ If u don't see me here, take a look for [my 2nd account](https://github.com/sunf
     <img height=175 alt="Coffee" title="Coffee" src="https://images.unsplash.com/photo-1591456983933-4e9587fdd69f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
 </p>
   
----
-### ✈️ My learning plan
+## ✈️ My learning plan
 > Well, I don't think it done, but I will note all things I know! ✔️
 #### Database
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
